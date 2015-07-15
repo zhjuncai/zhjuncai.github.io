@@ -1,7 +1,7 @@
 # Site settings
-title: Ethan Blog
+title: Bazinga
 email: zhjuncai@outlook.com
-description: My Personal Blog, recording my learning path, and sharing what I had learned 
+description: Learning Swift, keep swifty 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: zhjuncai
